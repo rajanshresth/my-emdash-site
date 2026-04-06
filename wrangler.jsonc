@@ -22,8 +22,8 @@
   ],
   "kv_namespaces": [         // 👈 add this
     {
-      "binding": "SESSION",
-      "id": "YOUR_KV_ID_HERE",
+      "binding": "my-emdash-kv",
+      "id": "2b9e8561a11b4c46b63f263fe1103aff",
     },
   ],
   "observability": {
